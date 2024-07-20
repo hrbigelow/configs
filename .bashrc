@@ -128,9 +128,6 @@ export LD_LIBRARY_PATH=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PAT
 # export PYLEARN2_DATA_PATH=/home/hrbigelow/ai/data
 # export PYLEARN2_VIEWER_COMMAND=gwenview
 
-# export WANDB_API_KEY=17b1861d8e0f2fce750397ad112ebc2c6d91affa
-
-
 # added by Miniconda3 installer
 export PATH="/home/henry/miniconda3/bin:$PATH"
 . /home/henry/miniconda3/etc/profile.d/conda.sh
